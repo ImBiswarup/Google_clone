@@ -1,7 +1,7 @@
 import axios from "axios";
 const BASE_URL = "https://www.googleapis.com/customsearch/v1";
 const params = {
-  key: "AIzaSyCeJsYZRnLudL66VwzmAyp-qWqoKKp-hBk",
+  key: "Your_API_Key",
   cx: "d38340a31c5924c50",
 
 };
